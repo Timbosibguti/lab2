@@ -4,6 +4,6 @@ int main()
 {
 	printf("Hello, World\n");
 	printf("Mad World\n");
-	printf("privet");
+	printf("conflict");
 	return 0;
 }
